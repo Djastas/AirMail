@@ -20,5 +20,5 @@ MonoBehaviour:
   chord: 1.47
   flapFraction: 0.2
   span: 2.75
-  autoAspectRatio: 0
-  aspectRatio: 7
+  autoAspectRatio: 1
+  aspectRatio: 1.8707483

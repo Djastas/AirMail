@@ -25,7 +25,7 @@ MonoBehaviour:
   showSurfaces: 1
   wingColor: {r: 0.199, g: 0.254, b: 0.981, a: 0.235}
   flapColor: {r: 1, g: 0.633, b: 0.241, a: 0.325}
-  wingAtStallColor: {r: 0.632, g: 0.051, b: 0.18, a: 0.353}
+  wingAtStallColor: {r: 0.8679245, g: 0.028657902, b: 0.21900675, a: 0.353}
   flapAtStallColor: {r: 1, g: 0.078, b: 0.181, a: 0.612}
   showForces: 1
   showTorque: 1
