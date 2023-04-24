@@ -15,10 +15,10 @@ MonoBehaviour:
   liftSlope: 8.5
   skinFriction: 0.02
   zeroLiftAoA: -3
-  stallAngleHigh: 15
-  stallAngleLow: -15.86
-  chord: 1.99
+  stallAngleHigh: 20.08
+  stallAngleLow: -23.5
+  chord: 2.64
   flapFraction: 0.23
-  span: 1.97
+  span: 2
   autoAspectRatio: 1
-  aspectRatio: 0.98994976
+  aspectRatio: 0.75757575

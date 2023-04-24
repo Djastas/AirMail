@@ -1,0 +1,41 @@
+
+рыбачек.png
+size: 6588,4821
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Слой 1
+  rotate: true
+  xy: 4580, 2
+  size: 2194, 1587
+  orig: 2194, 1587
+  offset: 0, 0
+  index: -1
+Слой 2
+  rotate: false
+  xy: 2, 70
+  size: 4576, 4749
+  orig: 4576, 4749
+  offset: 0, 0
+  index: -1
+Слой 3
+  rotate: true
+  xy: 6169, 1435
+  size: 761, 382
+  orig: 761, 382
+  offset: 0, 0
+  index: -1
+Слой 4
+  rotate: true
+  xy: 6169, 878
+  size: 555, 354
+  orig: 555, 354
+  offset: 0, 0
+  index: -1
+Слой 5
+  rotate: true
+  xy: 4580, 2198
+  size: 2621, 2006
+  orig: 2621, 2006
+  offset: 0, 0
+  index: -1

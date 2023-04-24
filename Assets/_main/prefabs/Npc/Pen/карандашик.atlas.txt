@@ -1,0 +1,55 @@
+
+карандашик.png
+size: 1777,483
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Слой 1
+  rotate: true
+  xy: 2, 11
+  size: 470, 873
+  orig: 470, 873
+  offset: 0, 0
+  index: -1
+Слой 2
+  rotate: true
+  xy: 877, 186
+  size: 295, 482
+  orig: 295, 482
+  offset: 0, 0
+  index: -1
+Слой 3
+  rotate: false
+  xy: 1361, 177
+  size: 357, 304
+  orig: 357, 304
+  offset: 0, 0
+  index: -1
+Слой 4
+  rotate: true
+  xy: 1351, 3
+  size: 172, 223
+  orig: 172, 223
+  offset: 0, 0
+  index: -1
+Слой 5
+  rotate: true
+  xy: 1156, 17
+  size: 167, 193
+  orig: 167, 193
+  offset: 0, 0
+  index: -1
+Слой 6
+  rotate: true
+  xy: 877, 2
+  size: 182, 277
+  orig: 182, 277
+  offset: 0, 0
+  index: -1
+Слой 7
+  rotate: false
+  xy: 1576, 23
+  size: 199, 152
+  orig: 199, 152
+  offset: 0, 0
+  index: -1
