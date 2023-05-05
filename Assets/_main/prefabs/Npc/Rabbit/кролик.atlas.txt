@@ -1,0 +1,62 @@
+
+кролик.png
+size: 6137,2869
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Слой 10
+  rotate: true
+  xy: 2, 10
+  size: 2857, 3837
+  orig: 2857, 3837
+  offset: 0, 0
+  index: -1
+Слой 11
+  rotate: true
+  xy: 3841, 2
+  size: 313, 373
+  orig: 313, 373
+  offset: 0, 0
+  index: -1
+Слой 12
+  rotate: false
+  xy: 4413, 419
+  size: 632, 931
+  orig: 632, 931
+  offset: 0, 0
+  index: -1
+Слой 13
+  rotate: true
+  xy: 5386, 18
+  size: 765, 743
+  orig: 765, 743
+  offset: 0, 0
+  index: -1
+Слой 14
+  rotate: true
+  xy: 4413, 36
+  size: 381, 971
+  orig: 381, 971
+  offset: 0, 0
+  index: -1
+Слой 15
+  rotate: false
+  xy: 3841, 1352
+  size: 2294, 1515
+  orig: 2294, 1515
+  offset: 0, 0
+  index: -1
+Слой 9
+  rotate: false
+  xy: 5047, 785
+  size: 1027, 565
+  orig: 1027, 565
+  offset: 0, 0
+  index: -1
+Слой 9 копия
+  rotate: true
+  xy: 3841, 317
+  size: 1033, 570
+  orig: 1033, 570
+  offset: 0, 0
+  index: -1

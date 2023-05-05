@@ -1,0 +1,62 @@
+
+птица.png
+size: 1014,383
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Слой 1
+  rotate: false
+  xy: 2, 2
+  size: 393, 379
+  orig: 393, 379
+  offset: 0, 0
+  index: -1
+Слой 2
+  rotate: true
+  xy: 615, 12
+  size: 176, 232
+  orig: 176, 232
+  offset: 0, 0
+  index: -1
+Слой 3
+  rotate: true
+  xy: 864, 58
+  size: 323, 148
+  orig: 323, 148
+  offset: 0, 0
+  index: -1
+Слой 4
+  rotate: false
+  xy: 615, 190
+  size: 247, 191
+  orig: 247, 191
+  offset: 0, 0
+  index: -1
+Слой 5
+  rotate: false
+  xy: 397, 33
+  size: 55, 46
+  orig: 55, 46
+  offset: 0, 0
+  index: -1
+Слой 6
+  rotate: true
+  xy: 397, 180
+  size: 201, 216
+  orig: 201, 216
+  offset: 0, 0
+  index: -1
+Слой 7
+  rotate: false
+  xy: 397, 81
+  size: 181, 97
+  orig: 181, 97
+  offset: 0, 0
+  index: -1
+Слой 8
+  rotate: false
+  xy: 454, 35
+  size: 139, 44
+  orig: 139, 44
+  offset: 0, 0
+  index: -1
