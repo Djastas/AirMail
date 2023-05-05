@@ -1,9 +1,10 @@
 using System;
+using _main.scripts;
 using UnityEngine;
 
 public class AirplaneInputController : MonoBehaviour
 {
-    [SerializeField] private AirplaneController airplaneController;
+    [SerializeField] private BasicAirplaneController airplaneController;
     [SerializeField] private Transform center;
     [SerializeField] private Transform leftHand;
     [SerializeField] private Transform rightHand;
